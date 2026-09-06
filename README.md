@@ -11,8 +11,7 @@ A graphical Image Manipulation Software built using the C programming language a
 - **Name:** Torikul Islam Topu
 - **Course/ID:** [Final Lab Project]
 - **GitHub:** [@Topu](https://github.com/topuiit1840)
-- **Project Link:** [@image_manipulation](https://github.com/hasnath1/image_manipulation)
-
+- **Project Link:** [@Lab_Final_Project](https://github.com/topuiit1840/1st-semister-lab-final)
 - **IUP Documentation:** [@IUP](https://www.tecgraf.puc-rio.br/iup/)
 
 ---
@@ -33,7 +32,7 @@ Run the following commands in your terminal to clone the repository, install the
 
 ```bash
 # Clone the repo
-git clone https://github.com/hasnath1/image_manipulation.git
+git clone https://github.com/topuiit1840/1st-semister-lab-final.git
 cd image_manipulation
 
 # Install system dependencies
