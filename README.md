@@ -8,7 +8,7 @@ A graphical Image Manipulation Software built using the C programming language a
 
 ## 👨‍💻 Author
 
-- **Name:** Torikul Islam Topu
+- **Name:** MD Toriqul Islam Topu
 - **Course/ID:** [Final Lab Project]
 - **GitHub:** [@Topu](https://github.com/topuiit1840)
 - **Project Link:** [@Lab_Final_Project](https://github.com/topuiit1840/1st-semister-lab-final)
