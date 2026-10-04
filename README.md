@@ -26,6 +26,21 @@ Ensure your environment meets the following dependencies before building:
 
 ---
 
+
+## Screenshots
+
+![1](./ui_images/1.png)
+![2](./ui_images/2.png)
+![3](./ui_images/3.png)
+![4](./ui_images/4.png)
+![5](./ui_images/5.png)
+![6](./ui_images/6.png)
+![7](./ui_images/7.png)
+![8](./ui_images/8.png)
+![9](./ui_images/9.png)
+![8](./ui_images/10.png)
+
+
 ## 🚀 Setup & Installation
 
 Run the following commands in your terminal to clone the repository, install the necessary system dependencies, and set up the isolated library environment.
